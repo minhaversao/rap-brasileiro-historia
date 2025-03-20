@@ -1,0 +1,19 @@
+# Lista de URLs para baixar imagens para o Banco de Imagens do Rap Brasileiro
+# Formato: URL [destino]
+# Se o destino não for especificado, a imagem será salva em imagens/artistas/
+
+# Imagens que estão sob licença livre ou domínio público
+# (Substitua estas URLs por URLs reais de imagens que você tem permissão para usar)
+
+# Artistas
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Racionais_MCs.jpg/800px-Racionais_MCs.jpg imagens/artistas/racionais-mcs.jpg
+https://upload.wikimedia.org/wikipedia/commons/8/85/Emicida_in_2016.jpg imagens/artistas/emicida.jpg
+https://upload.wikimedia.org/wikipedia/commons/3/33/Criolo_MUPA_2.jpg imagens/artistas/criolo.jpg
+
+# Álbuns
+https://upload.wikimedia.org/wikipedia/pt/5/5a/Sobrevivendo_no_Inferno.jpg imagens/albuns/sobrevivendo-no-inferno.jpg
+https://upload.wikimedia.org/wikipedia/pt/a/a0/Rap_%C3%A9_Compromisso.jpg imagens/albuns/rap-e-compromisso.jpg
+https://upload.wikimedia.org/wikipedia/pt/3/32/N%C3%B3_na_Orelha.jpg imagens/albuns/no-na-orelha.jpg
+
+# Graffiti e Arte Urbana
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Graffiti_in_Brazil.jpg/800px-Graffiti_in_Brazil.jpg imagens/graffiti/graffiti-brasil.jpg
